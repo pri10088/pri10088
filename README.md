@@ -13,7 +13,7 @@ Hi there! I'm Shanmuga Priya AR<br>3rd Year IT Student | Aspiring Software Devel
 ![](https://nirzak-streak-stats.vercel.app/?user=pri10088&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pri10088&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
