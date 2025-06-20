@@ -1,7 +1,7 @@
 
-Hi, I'm Shanmuga Priya AR
-<br>3rd Year IT Student | Aspiring Software Developer
-<br>Focused on Web Development, DSA, and Full Stack projects.
+Hey there! I'm Shanmuga Priya AR
+<br>pre-final year | aspiring software developer
+<br>focused on web development, DSA, and full stack projects.
 
 
 
