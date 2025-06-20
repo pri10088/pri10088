@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi there! I'm Shanmuga Priya AR<br>3rd Year IT Student | Aspiring Software Developer 🌟<br><br>💻 Passionate about Web Development, Data Structures, and Algorithmic Problem-Solving.<br>🚀 Currently honing skills in Full Stack Development (React, Node.js).<br>🎯 Exploring Cloud Computing for scalable solutions.<br>🔗 Actively solving problems on LeetCode, GeeksforGeeks to strengthen my coding skills.<br>📂 Check out my projects in this repo to see what I’ve been working on!
+
+Hi, I'm Shanmuga Priya AR
+<br>3rd Year IT Student | Aspiring Software Developer
+
+<br>Focused on Web Development, DSA, and Full Stack projects.
 
 
 
